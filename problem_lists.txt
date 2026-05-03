@@ -10,6 +10,7 @@ Done
 3. Remove duplicates from array
 Input: [1,2,2,3]
 Output: [1,2,3]
+Done
 
 4. Sum of array
 Input: [1,2,3,4]
