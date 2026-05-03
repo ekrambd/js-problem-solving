@@ -1,6 +1,7 @@
 1. Reverse a string
 Input: "hello"
 Output: "olleh"
+Done
 
 2. Check palindrome
 Input: "madam"
