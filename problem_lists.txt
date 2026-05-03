@@ -25,10 +25,12 @@ Done
 6. Even or Odd
 Input: 7
 Output: "Odd"
+Done
 
 7. Factorial
 Input: 5
 Output: 120
+Done
 
 8. Fibonacci series
 Input: 5
