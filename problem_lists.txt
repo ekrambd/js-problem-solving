@@ -15,10 +15,12 @@ Done
 4. Sum of array
 Input: [1,2,3,4]
 Output: 10
+Done
 
 5. Max & Min in array
 Input: [5,2,9,1]
 Output: max=9, min=1
+Done
 
 6. Even or Odd
 Input: 7
