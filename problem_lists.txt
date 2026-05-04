@@ -90,6 +90,7 @@ Output: [3,1,2]
 21. Character frequency
 Input: "aab"
 Output: {a:2,b:1}
+Done
 
 22. Longest word
 Input: "I love programming"
