@@ -101,10 +101,12 @@ Done
 23. Array intersection
 Input: [1,2,3],[2,3,4]
 Output: [2,3]
+Done
 
 24. Array union
 Input: [1,2],[2,3]
 Output: [1,2,3]
+Done
 
 25. First non-repeating char
 Input: "aabbc"
