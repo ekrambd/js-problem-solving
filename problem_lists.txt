@@ -86,6 +86,7 @@ Input: {a:1,b:{c:2}}
 20. Rotate array
 Input: [1,2,3],k=1
 Output: [3,1,2]
+Done
 
 21. Character frequency
 Input: "aab"
