@@ -61,6 +61,7 @@ Output: 10
 14. Word count
 Input: "I love JS"
 Output: 3
+Done
 
 15. Reverse number
 Input: 123
