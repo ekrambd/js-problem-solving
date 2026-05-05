@@ -53,6 +53,7 @@ Done
 12. Prime check
 Input: 7
 Output: true
+Done
 
 13. Second largest
 Input: [10,5,20,8]
