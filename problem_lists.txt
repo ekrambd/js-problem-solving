@@ -58,6 +58,7 @@ Done
 13. Second largest
 Input: [10,5,20,8]
 Output: 10
+Done
 
 14. Word count
 Input: "I love JS"
