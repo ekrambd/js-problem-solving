@@ -1,13 +1,10 @@
 //7. Factorial
 
-var factorial = function(num){
-    if(num < 0) return "Invalid Input";
-    let result = 1;
-    for(let i = 2; i <= num; i++)
-    {
-        result*=i;
-    }
-    return result;        
+var factorial = function(n){
+    if(n < 0) return "Invalid Input";
+    if(n == 0 || n == 1) return 1;
+    let result = n*(factorial(n-1));
+    return result;
 };
 
 console.log(factorial(5));
